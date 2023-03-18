@@ -1,5 +1,5 @@
 # Мария Шашкова
-![](/C:\Users\1\Desktop\MariaSH\foto.png)
+![](/foto.png)
 
 *Дата рождения: 06.01.1089*
 
